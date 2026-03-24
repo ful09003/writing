@@ -1,0 +1,11 @@
+#+BEGIN_COMMENT
+  org-md-export-to-markdown to regenerate the Markdown form of this.
+#+END_COMMENT
+#+AUTHOR: Michael Fuller
+#+LANGUAGE: en
+#+TITLE: Haikus
+* <2026-03-24 Tue>
+Found inside or out
+Wherever wind carries me,
+Free to simply be
+
