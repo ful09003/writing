@@ -1,3 +1,4 @@
+#+OPTIONS: toc:nil
 #+BEGIN_COMMENT
   org-md-export-to-markdown to regenerate the Markdown form of this.
 #+END_COMMENT
@@ -24,4 +25,11 @@ Stepping outside lies
 Grass carpet holding
 Life yearning for chance to feel
 Sun giving warmth soon
-
+* <2026-04-06 Mon>
+Dim sunlight shines bright
+Upon sap weeping without
+May death be so slow
+* <2026-04-06 Mon>
+Warmth and bitter cold
+Guide our natures ever still,
+Calm as snow may be
