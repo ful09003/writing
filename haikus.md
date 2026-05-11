@@ -47,8 +47,18 @@ May death be so slow
 Warmth and bitter cold
 Guide our natures ever still,
 Calm as snow may be
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-04-14 Tue&gt;</span></span>
+
+
+# <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-04-14 Tue&gt;</span></span>
+
 Water rising up
 Floats thoughts best left on dry shores
 Whose raft am I on?
+
+
+# <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-05-11 Mon&gt;</span></span>
+
+Misery taught through
+Our collective amnesia
+To do so is life
 
